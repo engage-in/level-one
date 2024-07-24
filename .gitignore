@@ -8,4 +8,4 @@ vendor/
 
 # Appended
 public/
-resources/.gen/
+resources/_gen/
