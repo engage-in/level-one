@@ -1,0 +1,20 @@
+---
+title: 'My Sixth Post'
+date: 2024-07-28T15:39:36+08:00
+draft: true
+---
+* Header 1
+
+Test CJK characters
+
+** Below is C
+
+这是中文信息
+
+** Below is J
+
+これは日本語の情報デス
+
+** Below is K
+
+이것은 중국어로 된 정보입니다
