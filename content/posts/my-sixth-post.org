@@ -1,7 +1,7 @@
 ---
 title: 'My Sixth Post'
 date: 2024-07-28T15:39:36+08:00
-draft: true
+draft: false
 ---
 * Header 1
 
